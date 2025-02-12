@@ -2,7 +2,7 @@
 ### Olá! Eu sou o Arthur Valentim Oneda
 
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-valentim-oneda-937963241/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthur_themclovin/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthur_oneda/)
 
 ![Meus Status no GitHub](https://github-readme-stats.vercel.app/api?username=ArthurOneda&show_icons=true&theme=gruvbox)
 
